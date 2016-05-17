@@ -17,6 +17,22 @@ let contacts = [{
   id: 4,
   name: 'Lynch',
   phone: '450 726 4443'
+}, {
+  id: 5,
+  name: 'Raynor',
+  phone: '888 533 5115'
+}, {
+  id: 6,
+  name: 'Diablo',
+  phone: '905 256 0133'
+}, {
+  id: 7,
+  name: 'Arthas',
+  phone: '000 231 8272'
+}, {
+  id: 8,
+  name: 'JunkRat',
+  phone: '450 232 7536'
 }]
 
 class App extends React.Component {
